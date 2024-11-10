@@ -14,7 +14,7 @@ public class Main {
             count+=arr[i];
 
         }
-        System.out.println("the avg" + count/4);
+        System.out.println("the avg" +" "+ count/4);
     }
 
 
